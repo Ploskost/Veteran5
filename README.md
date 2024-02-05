@@ -1,7 +1,7 @@
 # Veteran5
 Hai, Ruth &amp; Sharon
 
-In this project we'll be working together to create one gigantic bash script called Veteran.sh
+In this project we'll be working together to create one gigantic bash script called veteran.sh
 The end goal is a bash script that can get 1 - 6 flags and perform all of the Hard Level tasks respectively!
 
 --- VETERAN.SH ---
